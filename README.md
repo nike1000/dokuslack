@@ -1,0 +1,2 @@
+# dokuslack
+DokuWiki Slack integration
