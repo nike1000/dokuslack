@@ -1,0 +1,7 @@
+base   dokuslack
+author Cristiam Mercado
+email  cristiam@blinsoft.com
+date   2016-05-18
+name   DokuWiki Slack Notifier
+desc   Plugin that allows notification of changes made in the articles of DokuWiki to Slack channels
+url    https://github.com/cristiammercado/dokuslack
